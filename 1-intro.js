@@ -1,4 +1,5 @@
 const amount = 2
+//comit it
 
 if (amount < 10) {
     console.log(`Small amount...`);
